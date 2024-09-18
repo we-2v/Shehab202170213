@@ -98,7 +98,8 @@ def go():
         print("Sorry, I don t seem to be able to diagnose the disease.")  # If no disease is identified
 
 if __name__ == "__main__":
-    go()  # Start the program```
+    go()  # Start the program
+```
 
 ### Diseases and Symptoms
 
